@@ -4,9 +4,9 @@ function writeHeader() {
     <div class="container">
       <nav class="navbar navbar-expand-lg custom_nav-container ">
         <a class="navbar-brand" href="index.html">
-          <img src="images/logo.png" alt="">
+          <img src="images/logo.jpg" alt="">
           <span>
-            Electrochip
+            digitalvansh
           </span>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,3 +41,10 @@ function writeHeader() {
     // Write the header content to the current document
     document.write(headerContent);
   }
+
+  function returnMyIcon() {
+    const myIcon = '<link rel="icon" href="/images/favicon.ico" type="image/x-icon">';
+    document.write(myIcon);
+  }
+
+  returnMyIcon();
