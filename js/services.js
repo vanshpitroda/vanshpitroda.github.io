@@ -16,23 +16,23 @@ function writeServices() {
           </div>
           <div class="detail-box">
             <h5>
-              Website Template
+              Website UI Designing
             </h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
+              A unique design for your awesome website.
             </p>
           </div>
         </div>
-        <div class="box active">
+        <div class="box">
           <div class="img-box">
             <img src="images/s2.png" class="img1" alt="">
           </div>
           <div class="detail-box">
             <h5>
-              Windmill Energy
+              Website Development
             </h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
+              Both static and dynamic website are going to be ready asap you are ordering them.
             </p>
           </div>
         </div>
@@ -42,44 +42,13 @@ function writeServices() {
           </div>
           <div class="detail-box">
             <h5>
-              Equipment Maintenance
+              Brand Logo Designing
             </h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
+              We are waiting to design your brand's logo come on and order it fast!
             </p>
           </div>
         </div>
-        <div class="box ">
-          <div class="img-box">
-            <img src="images/s4.png" class="img1" alt="">
-          </div>
-          <div class="detail-box">
-            <h5>
-              Offshore Engineering
-            </h5>
-            <p>
-              There are many variations of passages of Lorem Ipsum available,
-            </p>
-          </div>
-        </div>
-        <div class="box">
-          <div class="img-box">
-            <img src="images/s5.png" class="img1" alt="">
-          </div>
-          <div class="detail-box">
-            <h5>
-              Electrical Wiring
-            </h5>
-            <p>
-              There are many variations of passages of Lorem Ipsum available,
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="btn-box">
-        <a href="">
-          Read More
-        </a>
       </div>
     </div>
   </section>

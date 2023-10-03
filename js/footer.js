@@ -44,22 +44,22 @@ function writeFooter() {
         <div class="col-md-4 col-lg-3">
           <div class="info_social">
             <div>
-              <a href="">
+              <a href="https://www.facebook.com/profile.php?id=100081779717862">
                 <img src="images/fb.png" alt="">
               </a>
             </div>
             <div>
-              <a href="">
+              <a href="https://twitter.com/vanshyoo">
                 <img src="images/twitter.png" alt="">
               </a>
             </div>
             <div>
-              <a href="">
+              <a href="https://www.linkedin.com/in/vansh-mistry-251a37246/">
                 <img src="images/linkedin.png" alt="">
               </a>
             </div>
             <div>
-              <a href="">
+              <a href="https://www.instagram.com/vanshyoo/">
                 <img src="images/instagram.png" alt="">
               </a>
             </div>
