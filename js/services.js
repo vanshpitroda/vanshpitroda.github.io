@@ -16,10 +16,10 @@ function writeServices() {
           </div>
           <div class="detail-box">
             <h5>
-              Website UI Designing
+              UI Designing
             </h5>
             <p>
-              A unique design for your awesome website.
+              A unique design for your awesome website is under construction, take it with you.
             </p>
           </div>
         </div>
@@ -42,10 +42,10 @@ function writeServices() {
           </div>
           <div class="detail-box">
             <h5>
-              Brand Logo Designing
+              Logo Designing
             </h5>
             <p>
-              We are waiting to design your brand's logo come on and order it fast!
+              We are waiting to design your business logo and banners on and order them fast!
             </p>
           </div>
         </div>

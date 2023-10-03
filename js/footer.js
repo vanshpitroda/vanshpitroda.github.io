@@ -33,6 +33,7 @@ function writeFooter() {
       <div class="row">
         <div class="col-md-8 col-lg-9">
           <div class="info_form">
+          <p>Subscribe our newslatter ↓</p>
             <form action="">
               <input type="text" placeholder="Enter your email">
               <button>
