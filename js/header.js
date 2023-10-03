@@ -38,7 +38,6 @@ function writeHeader() {
   </header>
     `;
   
-    // Write the header content to the current document
     document.write(headerContent);
   }
 
