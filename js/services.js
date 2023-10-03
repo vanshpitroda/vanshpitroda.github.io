@@ -16,7 +16,7 @@ function writeServices() {
           </div>
           <div class="detail-box">
             <h5>
-              Equipment installation
+              Website Template
             </h5>
             <p>
               There are many variations of passages of Lorem Ipsum available,
