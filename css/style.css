@@ -694,7 +694,7 @@ a:focus {
 
 #main-section-text{
   color: #5625a1;
-  font-size: 62px;
+  font-size: 5vw;
   text-transform: lowercase;
   font-weight: 900;
 }
