@@ -249,8 +249,8 @@ a:focus {
 }
 
 .slider_section .img_container {
-  border: 7px solid #7b57b2;
-  border-radius: 70%;
+  /* border: 7px solid #7b57b2; */
+  /* border-radius: 70%; */
   overflow: hidden;
   height: 300px;
 }
@@ -280,19 +280,20 @@ a:focus {
   background-position: center;
 }
 
+/* 
 .slider_section .carousel-control-prev {
   background-image: url(../images/prev.png);
   background-color: #ffffff;
   -webkit-transform: translate(-85px, 30px);
           transform: translate(-85px, 30px);
-}
+} */
 
-.slider_section .carousel-control-next {
+/* .slider_section .carousel-control-next {
   background-image: url(../images/next.png);
   background-color: #4b208c;
   -webkit-transform: translate(-45px, 0);
           transform: translate(-45px, 0);
-}
+} */
 
 .service_section {
   text-align: center;
